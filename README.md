@@ -54,6 +54,15 @@ Reads a CSV file, removes missing values, and saves cleaned data.
 
 ---
 
+🟥 4. Star Wars ETL Pipeline ⭐
+
+An end-to-end Python ETL pipeline that ingests data from the Star Wars API (SWAPI), handles pagination, normalizes relational data, and loads it into PostgreSQL for analytics.
+
+Tech: Python, Pandas, SQLAlchemy, PostgreSQL
+🔗 Repo: [Star Wars ETL Pipeline](https://github.com/Ahmad-Haidari/star-wars-etl-pipeline.git)
+
+---
+
 ## 🎯 Goals
 •⁠  ⁠Become a professional Data Engineer  
 •⁠  ⁠Build real-world data pipelines  
