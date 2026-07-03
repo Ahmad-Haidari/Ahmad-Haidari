@@ -1,74 +1,102 @@
-<h1 align="center">👋 Hi, I'm Ahmad Haidari</h1>
+# 👋 Hallo, ich bin Ahmad Haidari
 
-<p align="center">
-  Aspiring Data Engineer | Python Learner | ETL & Data Processing Enthusiast
-</p>
+### Data Engineer | Python | SQL | PostgreSQL | ETL | Docker
 
----
+Willkommen auf meinem GitHub-Profil!
 
-## 🚀 About Me
-I am a Data Engineering student focusing on Python, data manipulation, and building beginner-friendly ETL pipelines.  
-My goal is to improve every day, learn modern data tools, and build practical real-world projects.
+Ich bin angehender Data Engineer und absolviere derzeit eine Weiterbildung im Bereich **Data Engineering** am **Digital Career Institute (DCI)** in Deutschland.
+
+Meine Leidenschaft gilt der Entwicklung moderner Datenlösungen. Ich arbeite gerne mit Python, SQL und PostgreSQL und entwickle ETL-Pipelines, Datenvalidierungsprozesse sowie Machine-Learning-Projekte. Dabei lege ich großen Wert auf sauberen Code, Datenqualität und kontinuierliches Lernen.
 
 ---
 
-## 🛠️ Skills
-*Programming:* Python  
-*Libraries:* Pandas  
-*Tools:* Git, GitHub, Jupyter Notebook, VS Code  
-*Data Work:* CSV, JSON, Data Cleaning, Basic ETL  
+## 👨‍💻 Über mich
+
+- 🇩🇪 Wohnort: Neumünster, Deutschland
+- 🎓 Weiterbildung zum Data Engineer am Digital Career Institute (DCI)
+- 💡 Begeistert von Data Engineering, Datenanalyse und Machine Learning
+- 🚀 Ziel: Einstieg als Junior Data Engineer oder Data Analyst
+- 📚 Ich erweitere kontinuierlich meine Kenntnisse in Cloud-Technologien und moderner Datenverarbeitung.
 
 ---
 
-## 📚 Current Focus
-•⁠  ⁠Strengthening Python fundamentals  
-•⁠  ⁠Working with datasets  
-•⁠  ⁠Building small ETL scripts  
-•⁠  ⁠Improving English and technical vocabulary  
+## 🛠️ Technische Kenntnisse
+
+### Programmiersprachen
+- Python
+- SQL
+
+### Datenbanken
+- PostgreSQL
+
+### Data Engineering
+- ETL-Pipelines
+- Datenbereinigung
+- Datenvalidierung
+- Data Quality
+- Data Governance
+
+### Tools
+- Git
+- GitHub
+- Docker
+- Linux
+- VS Code
+
+### Bibliotheken
+- Pandas
+- NumPy
+- Scikit-learn
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projekte
 
-### 🟦 *1. Mini ETL Pipeline*
-A beginner-friendly ETL script using Python & Pandas.  
-*Extract → Transform → Load*
+### 🛒 Smart E-Commerce Data Platform
 
-🔗 Repo: [Mini-ETL](https://github.com/Ahmad-Haidari/Mini-ETL)
+Entwicklung einer vollständigen ETL-Pipeline für E-Commerce-Daten.
 
----
+**Technologien**
 
-### 🟩 *2. JSON to CSV Converter*
-Loads JSON data and converts it to CSV using Pandas.  
-Great practice for handling structured data.
-
-🔗 Repo: [JSON-to-CSV](https://github.com/Ahmad-Haidari/JSON-to-CSV)
+Python • PostgreSQL • Docker • Git • Pandas
 
 ---
 
-### 🟧 *3. CSV Reader & Cleaner*
-Reads a CSV file, removes missing values, and saves cleaned data.
+### 🩺 Breast Cancer Prediction
 
-🔗 Repo: [CSV-Reader](https://github.com/Ahmad-Haidari/SCV-Reader) 
-(rename SCV → CSV if possible)
+Machine-Learning-Projekt zur Vorhersage von Brustkrebs mit Logistic Regression.
 
 ---
 
-🟥 4. Star Wars ETL Pipeline ⭐
+### 🍬 Diabetes Prediction
 
-An end-to-end Python ETL pipeline that ingests data from the Star Wars API (SWAPI), handles pagination, normalizes relational data, and loads it into PostgreSQL for analytics.
-
-Tech: Python, Pandas, SQLAlchemy, PostgreSQL
-🔗 Repo: [Star Wars ETL Pipeline](https://github.com/Ahmad-Haidari/star-wars-etl-pipeline.git)
+Machine-Learning-Projekt zur Klassifikation von Diabetes-Daten.
 
 ---
 
-## 🎯 Goals
-•⁠  ⁠Become a professional Data Engineer  
-•⁠  ⁠Build real-world data pipelines  
-•⁠  ⁠Learn SQL, Databases, and Cloud tools  
-•⁠  ⁠Create a strong GitHub portfolio  
+## 📈 Aktuelle Lernbereiche
+
+- Data Engineering
+- Cloud Computing
+- Machine Learning
+- Datenmodellierung
+- Data Warehousing
+- Apache Airflow
+- Docker
+- PostgreSQL
 
 ---
 
-<h3 align="center">🌟 Thanks for visiting my profile!</h3>
+## 📫 Kontakt
+
+📧 E-Mail: **iam.ahmad.haidari@gmail.com**
+
+🌍 GitHub: **https://github.com/Ahmad-Haidari**
+
+📍 Neumünster, Deutschland
+
+---
+
+## ⭐ Motto
+
+> **„Daten erzählen Geschichten – meine Aufgabe ist es, sie sichtbar zu machen.“**
